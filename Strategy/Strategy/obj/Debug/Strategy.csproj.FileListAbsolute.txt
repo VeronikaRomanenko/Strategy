@@ -1,0 +1,7 @@
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\Strategy\Strategy\obj\Debug\Strategy.pdb
